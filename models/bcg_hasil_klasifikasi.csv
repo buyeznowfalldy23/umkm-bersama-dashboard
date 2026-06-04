@@ -1,0 +1,114 @@
+id_produk,id_warung,nama_produk,kategori_produk,margin_pct,qty_terjual,revenue_total,cluster,kuadran,rekomendasi
+PRD-001-001,WRG-001,Telur 1/4kg,Sembako,15.0,129.0,1104000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-001-002,WRG-001,Gula Pasir 1kg,Sembako,14.71,115.0,1955000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-001-003,WRG-001,Rinso 800gr,Kebersihan,20.45,102.0,2244000.0,3,Cash Cow,Tingkatkan promosi untuk mendorong volume penjualan.
+PRD-001-004,WRG-001,Minyak Goreng 2L,Sembako,13.24,141.0,4640000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-001-005,WRG-001,Sabun Lifebuoy 85gr,Kebersihan,30.0,83.0,493000.0,3,Cash Cow,Tingkatkan promosi untuk mendorong volume penjualan.
+PRD-001-006,WRG-001,Rokok Gudang Garam 12,Rokok,10.0,259.0,6475000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-001-007,WRG-001,Teh Botol 350ml,Minuman,30.0,367.0,1835000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-001-008,WRG-001,Minyak Goreng 1L,Sembako,13.89,110.0,1980000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-001-009,WRG-001,Pocari Sweat 500ml,Minuman,22.22,548.0,4910000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-001-010,WRG-001,Oreo 137gr,Mie & Snack,20.83,486.0,5512000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-001-011,WRG-001,Beras 10kg,Sembako,13.1,130.0,7889000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-001-012,WRG-001,Beras 5kg,Sembako,13.33,134.0,7626000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-001-013,WRG-001,Tisu Paseo 250 lembar,Kebersihan,25.0,101.0,808000.0,3,Cash Cow,Tingkatkan promosi untuk mendorong volume penjualan.
+PRD-001-014,WRG-001,Telur 1kg,Sembako,12.5,113.0,3164000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-001-015,WRG-001,Rokok Surya 16,Rokok,10.0,278.0,6116000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-001-016,WRG-001,Kopi Kapal Api Sachet,Minuman,30.0,438.0,894000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-001-017,WRG-001,Garam 250gr,Sembako,42.86,108.0,378000.0,0,Cash Cow,Tingkatkan promosi untuk mendorong volume penjualan.
+PRD-001-018,WRG-001,Gas LPG 3kg,Gas & Energi,13.64,132.0,2904000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-001-020,WRG-001,Indomie Kuah,Mie & Snack,22.86,505.0,1767500.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-001-021,WRG-001,Supermi 1 dus (40pcs),Mie & Snack,17.89,480.0,19173000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-002-001,WRG-002,Kopi Kapal Api Sachet,Minuman,30.0,292.0,584000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-002-002,WRG-002,Rokok Gudang Garam 12,Rokok,10.0,194.0,4850000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-002-003,WRG-002,Gas LPG 3kg,Gas & Energi,13.64,143.0,3146000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-002-004,WRG-002,Mie Sedaap Goreng,Mie & Snack,25.71,357.0,1249500.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-002-006,WRG-002,Telur 1kg,Sembako,12.5,83.0,2324000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-002-007,WRG-002,Shampo Sunsilk Sachet,Kebersihan,35.0,56.0,56000.0,0,Cash Cow,Tingkatkan promosi untuk mendorong volume penjualan.
+PRD-002-008,WRG-002,Minyak Goreng 1L,Sembako,13.89,82.0,1476000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-002-009,WRG-002,Beras 10kg,Sembako,13.1,79.0,5280000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-002-010,WRG-002,Sabun Lifebuoy 85gr,Kebersihan,30.0,60.0,300000.0,3,Cash Cow,Tingkatkan promosi untuk mendorong volume penjualan.
+PRD-002-011,WRG-002,Telur 1/4kg,Sembako,15.0,105.0,840000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-002-012,WRG-002,Indomie Goreng,Mie & Snack,22.86,271.0,948500.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-002-013,WRG-002,Rinso 800gr,Kebersihan,20.45,86.0,1892000.0,3,Cash Cow,Tingkatkan promosi untuk mendorong volume penjualan.
+PRD-002-014,WRG-002,Susu Kental Manis 385g,Minuman,17.86,326.0,4252000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-002-015,WRG-002,Minyak Goreng 2L,Sembako,13.24,93.0,3050000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-002-016,WRG-002,Chitato 68gr,Mie & Snack,22.0,345.0,3378000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-002-017,WRG-002,Gula Pasir 1kg,Sembako,14.71,85.0,1445000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-002-018,WRG-002,Teh Botol 350ml,Minuman,30.0,305.0,1525000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-002-019,WRG-002,Indomie Kuah,Mie & Snack,22.86,278.0,973000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-002-020,WRG-002,Tepung Terigu 1kg,Sembako,16.67,101.0,1212000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-002-021,WRG-002,Pembalut Laurier,Kebersihan,26.67,66.0,990000.0,3,Cash Cow,Tingkatkan promosi untuk mendorong volume penjualan.
+PRD-002-022,WRG-002,Rokok Sampoerna 16,Rokok,8.93,184.0,5152000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-002-023,WRG-002,Rokok Surya 16,Rokok,10.0,205.0,4510000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-002-024,WRG-002,Aqua 1500ml,Minuman,28.57,387.0,2709000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-002-025,WRG-002,Garam 250gr,Sembako,42.86,78.0,273000.0,0,Cash Cow,Tingkatkan promosi untuk mendorong volume penjualan.
+PRD-002-026,WRG-002,Aqua 600ml,Minuman,30.0,344.0,1376000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-002-027,WRG-002,Beras 5kg,Sembako,13.33,74.0,4209000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-002-028,WRG-002,Sunlight 200ml,Kebersihan,25.0,72.0,576000.0,3,Cash Cow,Tingkatkan promosi untuk mendorong volume penjualan.
+PRD-003-001,WRG-003,Telur 1/4kg,Sembako,15.0,148.0,1184000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-003-002,WRG-003,Gula Pasir 1kg,Sembako,14.71,136.0,2312000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-003-003,WRG-003,Aqua 1500ml,Minuman,28.57,346.0,2422000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-003-004,WRG-003,Aqua 600ml,Minuman,30.0,397.0,1588000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-003-005,WRG-003,Minyak Goreng 1L,Sembako,13.89,132.0,2376000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-003-006,WRG-003,Sunlight 200ml,Kebersihan,25.0,103.0,824000.0,3,Cash Cow,Tingkatkan promosi untuk mendorong volume penjualan.
+PRD-003-007,WRG-003,Beras 10kg,Sembako,13.1,145.0,9354000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-003-008,WRG-003,Minyak Goreng 2L,Sembako,13.24,116.0,3874000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-003-010,WRG-003,Susu Kental Manis 385g,Minuman,17.86,437.0,5494000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-003-011,WRG-003,Tepung Terigu 1kg,Sembako,16.67,112.0,1344000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-003-012,WRG-003,Oreo 137gr,Mie & Snack,20.83,477.0,5180000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-003-013,WRG-003,Pembalut Laurier,Kebersihan,26.67,93.0,1395000.0,3,Cash Cow,Tingkatkan promosi untuk mendorong volume penjualan.
+PRD-003-014,WRG-003,Chitato 68gr,Mie & Snack,22.0,446.0,4364000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-003-015,WRG-003,Teh Botol 350ml,Minuman,30.0,490.0,2450000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-003-016,WRG-003,Supermi 1 dus (40pcs),Mie & Snack,17.89,437.0,15319000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-003-017,WRG-003,Garam 250gr,Sembako,42.86,118.0,413000.0,0,Cash Cow,Tingkatkan promosi untuk mendorong volume penjualan.
+PRD-003-018,WRG-003,Shampo Sunsilk Sachet,Kebersihan,35.0,93.0,93000.0,0,Cash Cow,Tingkatkan promosi untuk mendorong volume penjualan.
+PRD-003-021,WRG-003,Indomie Kuah,Mie & Snack,22.86,494.0,1729000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-003-022,WRG-003,Tisu Paseo 250 lembar,Kebersihan,25.0,93.0,744000.0,3,Cash Cow,Tingkatkan promosi untuk mendorong volume penjualan.
+PRD-003-023,WRG-003,Rokok Gudang Garam 12,Rokok,10.0,217.0,5425000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-004-001,WRG-004,Rokok Sampoerna 16,Rokok,8.93,218.0,6104000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-004-002,WRG-004,Mie Sedaap Goreng,Mie & Snack,25.71,387.0,1354500.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-004-003,WRG-004,Rokok Gudang Garam 12,Rokok,10.0,221.0,5525000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-004-006,WRG-004,Indomie Goreng,Mie & Snack,22.86,419.0,1466500.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-004-007,WRG-004,Telur 1/4kg,Sembako,15.0,205.0,1640000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-004-008,WRG-004,Beras 10kg,Sembako,13.1,197.0,11841908.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-004-009,WRG-004,Sunlight 200ml,Kebersihan,25.0,156.0,1248000.0,3,Cash Cow,Tingkatkan promosi untuk mendorong volume penjualan.
+PRD-004-010,WRG-004,Pocari Sweat 500ml,Minuman,22.22,336.0,3010000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-004-011,WRG-004,Minyak Goreng 1L,Sembako,13.89,188.0,3384000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-004-012,WRG-004,Susu Kental Manis 385g,Minuman,17.86,365.0,4902000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-004-013,WRG-004,Aqua 600ml,Minuman,30.0,420.0,1680000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-004-014,WRG-004,Kopi Kapal Api Sachet,Minuman,30.0,371.0,742000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-004-015,WRG-004,Gula Pasir 1kg,Sembako,14.71,205.0,3485000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-004-016,WRG-004,Aqua 1500ml,Minuman,28.57,363.0,2615000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-004-017,WRG-004,Indomie Kuah,Mie & Snack,22.86,443.0,1550500.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-004-018,WRG-004,Shampo Sunsilk Sachet,Kebersihan,35.0,164.0,164000.0,0,Cash Cow,Tingkatkan promosi untuk mendorong volume penjualan.
+PRD-004-019,WRG-004,Garam 250gr,Sembako,42.86,222.0,777000.0,0,Cash Cow,Tingkatkan promosi untuk mendorong volume penjualan.
+PRD-005-001,WRG-005,Susu Kental Manis 385g,Minuman,17.86,234.0,2912000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-005-002,WRG-005,Beras 10kg,Sembako,13.1,91.0,5425000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-005-003,WRG-005,Telur 1/4kg,Sembako,15.0,111.0,888000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-005-004,WRG-005,Minyak Goreng 1L,Sembako,13.89,95.0,1710000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-005-005,WRG-005,Rokok Sampoerna 16,Rokok,8.93,156.0,4368000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-005-006,WRG-005,Indomie Kuah,Mie & Snack,22.86,255.0,892500.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-005-007,WRG-005,Gas LPG 3kg,Gas & Energi,13.64,170.0,3740000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-005-008,WRG-005,Aqua 1500ml,Minuman,28.57,232.0,1624000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-005-009,WRG-005,Rokok Gudang Garam 12,Rokok,10.0,155.0,3875000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-005-010,WRG-005,Garam 250gr,Sembako,42.86,107.0,374500.0,0,Cash Cow,Tingkatkan promosi untuk mendorong volume penjualan.
+PRD-005-011,WRG-005,Aqua 600ml,Minuman,30.0,287.0,1196000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-005-012,WRG-005,Telur 1kg,Sembako,12.5,113.0,3164000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-005-013,WRG-005,Teh Botol 350ml,Minuman,30.0,240.0,1200000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-005-014,WRG-005,Gula Pasir 1kg,Sembako,14.71,106.0,1802000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-005-015,WRG-005,Rokok Surya 16,Rokok,10.0,130.0,2860000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-005-016,WRG-005,Shampo Sunsilk Sachet,Kebersihan,35.0,83.0,83000.0,0,Cash Cow,Tingkatkan promosi untuk mendorong volume penjualan.
+PRD-005-017,WRG-005,Chitato 68gr,Mie & Snack,22.0,226.0,2224000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-005-018,WRG-005,Rinso 800gr,Kebersihan,20.45,87.0,1914000.0,3,Cash Cow,Tingkatkan promosi untuk mendorong volume penjualan.
+PRD-005-019,WRG-005,Supermi 1 dus (40pcs),Mie & Snack,17.89,231.0,8395000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-005-020,WRG-005,Kopi Kapal Api Sachet,Minuman,30.0,239.0,496000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-005-021,WRG-005,Minyak Goreng 2L,Sembako,13.24,101.0,3308000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-005-022,WRG-005,Pembalut Laurier,Kebersihan,26.67,85.0,1275000.0,3,Cash Cow,Tingkatkan promosi untuk mendorong volume penjualan.
+PRD-005-023,WRG-005,Indomie Goreng,Mie & Snack,22.86,232.0,812000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-005-024,WRG-005,Mie Sedaap Goreng,Mie & Snack,25.71,243.0,850500.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-005-025,WRG-005,Sunlight 200ml,Kebersihan,25.0,104.0,832000.0,3,Cash Cow,Tingkatkan promosi untuk mendorong volume penjualan.
+PRD-005-026,WRG-005,Tisu Paseo 250 lembar,Kebersihan,25.0,92.0,736000.0,3,Cash Cow,Tingkatkan promosi untuk mendorong volume penjualan.
+PRD-005-027,WRG-005,Tepung Terigu 1kg,Sembako,16.67,100.0,1200000.0,2,Dog,Pertimbangkan kurangi stok atau hapus dari katalog.
+PRD-005-028,WRG-005,Pocari Sweat 500ml,Minuman,22.22,269.0,2409000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
+PRD-005-029,WRG-005,Oreo 137gr,Mie & Snack,20.83,245.0,2780000.0,1,Star,"Pertahankan stok, prioritaskan display dan promosi."
